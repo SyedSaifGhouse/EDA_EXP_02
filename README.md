@@ -1,7 +1,6 @@
-```
-SYED SAIF SYED GHOUSE
-212224230286
-```
+# SYED SAIF SYED GHOUSE
+# 212224230286
+
 # Exp - 2 Netflix Shows & Movies
 
 ## Aim
